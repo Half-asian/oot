@@ -239,9 +239,9 @@ void func_80028B74(GlobalContext*, Vec3f*, UNK_PTR, UNK_PTR, Color_RGB8*, Color_
 // ? func_800292DC(?);
 // ? func_80029320(?);
 // ? func_800293A0(?);
-// ? func_800293E4(?);
-// ? func_80029444(?);
-// ? func_8002949C(?);
+void func_800293E4(GlobalContext* globalCtx, Vec3f* pos, f32, f32, f32, f32);
+void func_80029444(GlobalContext* globalCtx, Vec3f* pos, u32, u32, u32);
+void func_8002949C(GlobalContext* globalCtx, Vec3f* pos, u32, u32, u32, u32);
 // ? func_80029530(?);
 // ? func_80029568(?);
 // ? func_800295A0(?);
